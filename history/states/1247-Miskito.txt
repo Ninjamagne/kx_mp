@@ -6,14 +6,11 @@ state = {
 	state_category = one
 
 	history = {
-		owner = NIC
-		add_core_of = NIC
-		set_demilitarized_zone = yes
+		owner = NEU
+		add_core_of = NEU
+
 		buildings = {
-			infrastructure = 1
-			14612 = {
-			naval_base = 1
-		    }
+
 		}
 		victory_points = {
 			14613 3

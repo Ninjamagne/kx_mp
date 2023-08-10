@@ -7,15 +7,8 @@ state={
 	}
 
 	history={
-		owner = HON
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			air_base = 1
-			13690 = {
-				naval_base = 2
-
-			}
 
 		}
 		victory_points = {
@@ -24,7 +17,7 @@ state={
 		victory_points = {
 			13690 3
 		}
-		add_core_of = HON
+		add_core_of = NEU
 
 	}
 

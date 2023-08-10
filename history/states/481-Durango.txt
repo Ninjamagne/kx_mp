@@ -7,15 +7,11 @@ state = {
 
 	local_supplies = 6.0 
 	history = {
-		owner = MEX
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			8057 = {
-				naval_base = 3
-			}
+
 		}
-		add_core_of = MEX
+		add_core_of = NEU
 		victory_points = {
 			12804 3
 		}

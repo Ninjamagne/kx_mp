@@ -8,11 +8,10 @@ state = {
 
 
 	history = {
-		owner = COL
-		add_core_of = COL
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
+
 		}
 		victory_points = {
 			13433 3

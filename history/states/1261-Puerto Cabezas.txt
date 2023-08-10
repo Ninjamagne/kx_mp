@@ -6,11 +6,10 @@ state={
 		10728 13440 14678 14679 14680 14681 14682 14677 13688
 	}
 	history={
-		owner = NIC
-		add_core_of = NIC
-		set_demilitarized_zone = yes
+		owner = NEU
+		add_core_of = NEU
+
 		buildings = {
-			infrastructure = 2
 
 		}
         victory_points = {

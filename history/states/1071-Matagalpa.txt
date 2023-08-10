@@ -4,12 +4,10 @@ state={
 	name="STATE_1071"
 
 	history={
-		owner = NIC
-		add_core_of = NIC
-		set_demilitarized_zone = yes
+		owner = NEU
+		add_core_of = NEU
+
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
 
 		}
 		victory_points = {

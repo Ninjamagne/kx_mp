@@ -6,14 +6,11 @@ state = {
 	state_category = six
 
 	history = {
-		owner = MEX
+		owner = NEU
 		buildings = {
-			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 3
-			air_base = 3
+
 		}
-		add_core_of = MEX
+		add_core_of = NEU
 		victory_points = {
 			1965 20
 		}

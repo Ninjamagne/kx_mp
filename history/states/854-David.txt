@@ -4,17 +4,11 @@ state={
 	name="STATE_854"
 
 	history={
-		owner = PAN
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			13683 = {
-				naval_base = 1
-
-			}
 
 		}
-		add_core_of = PAN
+		add_core_of = NEU
 		victory_points = {
 			13683 1 
 		}
