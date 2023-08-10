@@ -1300,3 +1300,7 @@ TAI = {
 	color = rgb { 215 59 53 }
 	color_ui = rgb { 215 59 53 }
 }
+NEU = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}
