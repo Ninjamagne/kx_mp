@@ -6,12 +6,11 @@ state = {
 	state_category = two
 
 	history = {
-		owner = FNG
-		add_core_of = FNG
-		add_claim_by = QIE
-
+		owner = NEU
+		add_core_of = NEU
+	
 		buildings = {
-			infrastructure = 2
+
 		}
 		victory_points = {
 			1588 3

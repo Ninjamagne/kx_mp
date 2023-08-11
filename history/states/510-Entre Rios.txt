@@ -6,13 +6,9 @@ state = {
 	}
 
 	history = {
-		owner = ARG
-		set_demilitarized_zone = yes
+		owner = NEU
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 2
-			air_base = 1
-			arms_factory = 1
+
 		}
 		victory_points = {
 			10943 2
@@ -20,8 +16,7 @@ state = {
 		victory_points = {
 			12453 2
 		}
-		add_core_of = ARG
-		add_claim_by = FOP
+		add_core_of = NEU
 	}
 
 	provinces = {

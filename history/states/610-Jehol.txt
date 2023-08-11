@@ -9,36 +9,9 @@ state={
 	}
 
 	history={
-		owner = FNG
-		add_core_of = FNG
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
-			10331 = {
-				bunker = 1
-
-			}
-			11801 = {
-				bunker = 1
-
-			}
-			814 = {
-				bunker = 1
-
-			}
-			3814 = {
-				bunker = 1
-
-			}
-			6837 = {
-				bunker = 1
-
-			}
-			10499 = {
-				bunker = 1
-
-			}
 
 		}
 		victory_points = {

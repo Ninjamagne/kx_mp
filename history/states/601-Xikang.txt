@@ -12,13 +12,10 @@ state = {
 	}
 
 	history = {
-		owner = SZC
-		add_core_of = SZC
-		add_claim_by = QIE
-		add_claim_by = FNG
-		add_claim_by = TIB
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 		victory_points = {
 			10841 1

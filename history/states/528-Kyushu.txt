@@ -10,20 +10,10 @@ state = {
 	}
 
 	history = {
-		owner = JAP
-		add_core_of = JAP
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 3
-			air_base = 3
-			dockyard = 5
-			arms_factory = 3
-			industrial_complex = 1
-			9950 = {
-				naval_base = 6
-			}
-			7110 = {
-				naval_base = 1
-			}
+
 		}
 		victory_points = {
 			7110 15

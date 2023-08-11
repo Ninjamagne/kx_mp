@@ -4,17 +4,10 @@ state = { #Qiantang
 	manpower = 9625000
 	state_category = four
 	history = {
-		owner = LEP
-		add_core_of = LEP
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			dockyard = 1
-			7191 = {
-				naval_base = 1
-			}
+
 		}
 		victory_points = {
 			7191 10
