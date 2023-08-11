@@ -5,12 +5,10 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = CAF
-		add_core_of = CAF
-		add_claim_by = HOL
-		add_claim_by = SUR
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 	}
 	impassable = yes

@@ -2,10 +2,10 @@ state = {
 	id = 1036
 	name = "STATE_1036"
 	history = {
-		owner = VEN
-		add_core_of = VEN
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 	}
 	provinces = {

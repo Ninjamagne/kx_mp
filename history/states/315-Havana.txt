@@ -9,18 +9,11 @@ state = {
 	state_category = six
 
 	history = {
-		owner = CUB
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			arms_factory = 2
-			industrial_complex = 3
-			air_base = 1
-			dockyard = 1
-			7622 = {
-				naval_base = 3
-			}
+
 		}
-		add_core_of = CUB
+		add_core_of = NEU
 		victory_points = {
 			7622 15
 		}

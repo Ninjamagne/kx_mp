@@ -7,16 +7,12 @@ state = {
 	state_category = zero
 
 	history = {
-		owner = USA
+		owner = NEU
 		buildings = {
 
-			infrastructure = 2
-			13205 = {
-				naval_base = 2
-			}
 		}
-		add_core_of = CUB
-                victory_points = {
+		add_core_of = NEU
+        victory_points = {
 			13205 1
 		}
 	}
