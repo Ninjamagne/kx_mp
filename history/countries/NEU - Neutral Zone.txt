@@ -23,6 +23,7 @@ set_convoys = 0
 
 create_country_leader = {
 	name = "Neutral Chad"
+	picture = "gfx/leaders/NEU/GFX_Portrait_Gigachad.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
