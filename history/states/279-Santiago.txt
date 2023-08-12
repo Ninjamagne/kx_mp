@@ -6,21 +6,11 @@ state = {
 	}
 
 	history = {
-		owner = CHL
+		owner = NEU
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 3
-			dockyard = 1
-			air_base = 3
-			8222 = {
-				naval_base = 5
-			}
-			650 = {
-				bunker = 1
-			}
+
 		}
-		add_core_of = CHL
+		add_core_of = NEU
 		victory_points = {
 			650 25
 		}

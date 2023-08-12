@@ -3,15 +3,13 @@ state = {
 	name = "STATE_756"
 
 	history = {
-		owner = SIA
-		add_claim_by = SIA
-		add_claim_by = BRM
-		add_core_of = SHA
+		owner = NEU
+		add_core_of = NEU
 		victory_points = {
 			7909 1 # Chiang Tung/Kengtung
 		}
 		buildings = {
-			infrastructure = 1
+
 		}
 	}
 

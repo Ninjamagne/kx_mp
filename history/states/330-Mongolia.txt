@@ -10,7 +10,7 @@ state = {
 	state_category = three
 
 	history = {
-		owner = MON
+		owner = NEU
 		victory_points = {
 			1834 1
 		}
@@ -24,14 +24,9 @@ state = {
 			4655 2
 		}
 		buildings = {
-			infrastructure = 1
-			arms_factory = 1
-			industrial_complex = 2
-			air_base = 1
+
 		}
-		add_core_of = MON
-		add_claim_by = QIE
-		add_claim_by = FNG
+		add_core_of = NEU
 	}
 
 	provinces = {

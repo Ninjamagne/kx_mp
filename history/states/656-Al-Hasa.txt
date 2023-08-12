@@ -5,15 +5,10 @@ state = {
 	state_category = one
 
 	history = {
-		owner = SAU
-		add_core_of = SAU
-		add_core_of = TRU
-		add_claim_by = TUR
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			12702 = {
-				naval_base = 2
-			}
+
 		}
 		victory_points = {
 			10791 2

@@ -1,0 +1,79 @@
+ideas = {
+	country = {
+		#other
+		kx_mp_neutral = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			picture = air_support_focus	
+
+			modifier = {
+
+				political_power_gain = -100
+				justify_war_goal_time = 100
+				enemy_justify_war_goal_time = 100
+				conscription = -10
+				enemy_operative_capture_chance_factor = 1
+				join_faction_tension = 10
+				industrial_capacity_factory = -10
+				industrial_capacity_dockyard = -10
+				consumer_goods_factor = 100
+				ai_get_ally_desire_factor  = -1000
+				ai_join_ally_desire_factor = -1000
+
+			}
+		}
+	}
+	#trade laws
+	trade_laws = {
+		law = yes
+		use_list_view = yes	
+	
+		always_closed_economy = {
+			
+			allowed = {
+				always = no
+			}
+							
+			cost = 6969
+			removal_cost = -1
+			picture = closed_economy
+			
+			allowed_to_remove = {
+				always = no
+			}	
+			
+			modifier = {
+				min_export = 0
+			}			
+			cancel_if_invalid = no
+		}
+	
+		always_free_trade = {
+			
+			allowed = {
+				always = no
+			}
+							
+			cost = 6969
+			removal_cost = -1
+			picture = free_trade
+			
+			allowed_to_remove = {
+				always = no
+			}	
+			
+			modifier = {
+				min_export = 0.9
+				industrial_capacity_factory = 0.10
+				industrial_capacity_dockyard = 0.10
+				production_speed_buildings_factor = 0.10
+				research_speed_factor = 0.10
+				civilian_intel_to_others = 40.0
+				navy_intel_to_others = 20.0
+			}			
+			cancel_if_invalid = no
+		}
+	}
+}

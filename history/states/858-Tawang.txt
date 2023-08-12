@@ -11,11 +11,10 @@ state={
 
 		}
 		add_claim_by = BHC
-		add_claim_by = TIB
-		add_claim_by = QIE
+		
 		add_claim_by = PRF
 		add_claim_by = DEH
-		add_claim_by = FNG
+		
 	}
 
 	provinces={

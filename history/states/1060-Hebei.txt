@@ -8,11 +8,11 @@ state = {
 	}
 
 	history = {
-		owner = QIE
-		add_core_of = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
+		
 		buildings = {
-			infrastructure = 3
+
 		}
 	}
 	provinces = {

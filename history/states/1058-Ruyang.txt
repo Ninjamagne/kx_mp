@@ -5,11 +5,11 @@ state = {
 	local_supplies = 1.0 
 	state_category = two
 	history = {
-		owner = QIE
-		add_core_of = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
+		
 		buildings = {
-			infrastructure = 2
+
 		}
 		victory_points = { 10446 2 }
 	}

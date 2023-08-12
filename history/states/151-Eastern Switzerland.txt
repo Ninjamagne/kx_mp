@@ -11,24 +11,14 @@ state = {
 	}
 
 	history = {
-		owner = SWI
+		owner = NEU
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 2
-			11601 = {
-				bunker = 3
-			}
-			658 = {
-				bunker = 2
-			}
-			663 = {
-				bunker = 1
-			}
+
 		}
 		victory_points = {
 			663 15
 		}
-		add_core_of = SWI
+		add_core_of = NEU
 	}
 
 	provinces = {

@@ -11,16 +11,11 @@ state = {
 	}
 
 	history = {
-		owner = VEN
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 1
-			1944 = {
-				naval_base = 5
-			}
+
 		}
-		add_core_of = VEN
+		add_core_of = NEU
 		victory_points = {
 			1944 5
 		}

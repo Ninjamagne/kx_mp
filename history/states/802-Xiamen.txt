@@ -6,10 +6,7 @@ state = { # Xiamen
 
 	history = {
 		owner = GEA
-		add_core_of = LEP
-		add_claim_by = GEA
-		add_claim_by = QIE
-		add_claim_by = FNG
+		add_core_of = GEA
 		victory_points = {
 			7071 1
 		}

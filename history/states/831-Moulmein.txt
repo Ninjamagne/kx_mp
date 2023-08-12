@@ -3,11 +3,10 @@ state = {
 	name = "STATE_831"
 
 	history = {
-		owner = SIA
-		add_claim_by = SIA
-		add_core_of = BRM
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
 		victory_points = {
 			1403 1 #Mawlaymein/Morlamaeng-2

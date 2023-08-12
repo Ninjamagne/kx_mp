@@ -6,16 +6,13 @@ state = {
 	state_category = two
 
 	history = {
-		owner = QIE
-		add_core_of = QIE
-		add_core_of = SHX
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		victory_points = {
 			4256 15
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+
 		}
 	}
 	provinces = {

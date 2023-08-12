@@ -8,13 +8,10 @@ state = {
 	}
 
 	history = {
-		owner = LEP
-		add_core_of = LEP
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+
 		}
 		victory_points = {
 			1099 1

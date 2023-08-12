@@ -6,12 +6,11 @@ state = {
 	}
 
 	history = {
-		owner = BRA
+		owner = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
-		add_core_of = BRA
-		add_claim_by = BOL
+		add_core_of = NEU
 		victory_points = {
 			10960 1
 		}

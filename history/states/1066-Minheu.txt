@@ -4,13 +4,10 @@ state = {
 	manpower = 4534240
 	state_category = four
 	history = {
-		owner = LEP
-		add_core_of = LEP
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			air_base = 1
+
 		}
 		victory_points = {
 			7027 3

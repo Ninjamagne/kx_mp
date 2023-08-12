@@ -10,22 +10,14 @@ state = {
 	state_category = four
 
 	history = {
-		owner = BRM
+		owner = NEU
 		victory_points = {
 			12090 5 #Sitwe
 		}
-#		victory_points = {
-#			3999 1 #Hakha
-#		}
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			air_base = 1
-			12090 = { # Port of Sitwe
-				naval_base = 3
-			}
+
 		}
-		add_core_of = BRM
+		add_core_of = NEU
 	}
 
 	provinces = {
