@@ -1,0 +1,147 @@
+AI_annex = {
+    GER_annex_POL = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = GER
+            POL = { is_ai = yes }
+            POL = { has_capitulated = no }
+            date > 1939.01.01
+        }
+
+        visible = {
+            country_exists = POL
+            original_tag = GER
+            POL = { is_ai = yes }
+            POL = { is_in_faction_with = GER }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = POL transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = POL
+                    is_controlled_by = GER
+                }
+                set_compliance = 100
+            }
+        }
+    }
+    GER_annex_UKR = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = GER
+            UKR = { is_ai = yes }
+            UKR = { has_capitulated = no }
+            date > 1939.01.01
+        }
+
+        visible = {
+            country_exists = UKR
+            original_tag = GER
+            UKR = { is_ai = yes }
+            UKR = { is_in_faction_with = GER }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = UKR transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = UKR
+                    is_controlled_by = GER
+                }
+                set_compliance = 100
+            }
+        }
+    }
+    GER_annex_WHR = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = GER
+            WHR = { is_ai = yes }
+            WHR = { has_capitulated = no }
+            date > 1939.01.01
+        }
+
+        visible = {
+            country_exists = WHR
+            original_tag = GER
+            WHR = { is_ai = yes }
+            WHR = { is_in_faction_with = GER }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = WHR transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = WHR
+                    is_controlled_by = GER
+                }
+                set_compliance = 100
+            }
+        }
+    }
+    GER_annex_LIT = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = GER
+            LIT = { is_ai = yes }
+            LIT = { has_capitulated = no }
+            date > 1939.01.01
+        }
+
+        visible = {
+            country_exists = LIT
+            original_tag = GER
+            LIT = { is_ai = yes }
+            LIT = { is_in_faction_with = GER }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = LIT transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = LIT
+                    is_controlled_by = GER
+                }
+                set_compliance = 100
+            }
+        }
+    }
+    GER_annex_BAT = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = GER
+            BAT = { is_ai = yes }
+            BAT = { has_capitulated = no }
+            date > 1939.01.01
+        }
+
+        visible = {
+            country_exists = BAT
+            original_tag = GER
+            BAT = { is_ai = yes }
+            BAT = { is_in_faction_with = GER }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = BAT transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = BAT
+                    is_controlled_by = GER
+                }
+                set_compliance = 100
+            }
+        }
+    }
+}
