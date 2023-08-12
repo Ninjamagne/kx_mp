@@ -11,20 +11,9 @@ state = {
 
 
 	history = {
-		owner = SIA
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 1
-			7236 = { # Songkhla Landing Zone
-				naval_base = 1
-			}
-#			1281 = { # Chumporn Landing Zone
-#				naval_base = 1
-#			}
-			4312 = { # Sichon Landing Zone
-				naval_base = 1
-			}
+
 		}
 		victory_points = {
 			7236 4 # Hat Yai - 5
@@ -35,7 +24,7 @@ state = {
 #		victory_points = {
 #			10156 1 # Mambang/Satun
 #		}
-		add_core_of = SIA
+		add_core_of = NEU
 	}
 
 	provinces = {

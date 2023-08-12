@@ -5,11 +5,10 @@ state = {
 	state_category = zero
 
 	history = {
-		owner = SAU
-		add_core_of = SAU
-		add_claim_by = JBS
+		owner = ENU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 	}
 

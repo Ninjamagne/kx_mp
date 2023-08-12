@@ -6,9 +6,8 @@ state = {
 	}
 
 	history = {
-		owner = SIA
-		add_claim_by = SIA
-		add_core_of = CAM
+		owner = NEU
+		add_claim_by = NEU
 		victory_points = {
 			7376 4 # Phnom Penh
 		}
@@ -16,10 +15,7 @@ state = {
 			4639 1 # Kampong Cham
 		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 1
-			air_base = 1
+
 		}
 	}
 

@@ -3,14 +3,13 @@ state = {
 	name = "STATE_825"
 
 	history = {
-		owner = SIA
-		add_core_of = SIA
-		add_core_of = CAM
+		owner = NEU
+		add_core_of = NEU
 		victory_points = {
 			10177 1 # Battambang/Phra Tabong
 		}
 		buildings = {
-			infrastructure = 2
+
 		}
 	}
 	provinces = {
