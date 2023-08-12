@@ -1,15 +1,4 @@
 on_actions = {
-	on_startup = {
-		effect = {
-			512 = {
-				create_unit = {
-					division = "division_template = \"Third Internationale Expeditionary Force\" start_experience_factor = 1.0 start_equipment_factor = 1.0"
-					owner = FOP
-					prioritize_location = 10953
-				}
-			}
-		}
-	}
 
 	#ROOT is winner #FROM gets annexed - For civil wars on_civil_war_end is also fired
 	on_annex = {

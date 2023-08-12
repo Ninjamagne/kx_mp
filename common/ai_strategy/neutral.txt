@@ -1,0 +1,27 @@
+ignore_neutral = {
+    allowed = {}
+    enable = {
+        always = yes
+    }
+
+    ai_strategy = {
+        type = dont_defend_ally_borders
+        id = NEU
+        value = 1000
+    }
+    ai_strategy = {
+        type = front_unit_request
+        tag = NEU
+        value = -1000
+    }
+    ai_strategy = {
+        type = ignore
+        id = NEU
+        value = 1000
+    }
+    ai_strategy = {
+        type = prepare_for_war
+        id = NEU
+        value = -1000
+    }
+}

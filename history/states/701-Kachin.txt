@@ -5,16 +5,15 @@ state = {
 		steel = 5
 	}
 	history = {
-		owner = BRM
+		owner = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
 		victory_points = {
 			8063 2 #Myitkina
 		}
 
-		add_core_of = BRM
-		add_core_of = KAC
+		add_core_of = NEU
 	}
 	provinces = {
 		1082 1197 1934 4087 4318 4425 4588 4996 8063 10486 10920 12335 12464 12492

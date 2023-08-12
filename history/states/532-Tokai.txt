@@ -5,12 +5,10 @@ state = {
 	state_category = eight
 
 	history = {
-		owner = JAP
-		add_core_of = JAP
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 3
+
 		}
 
 		victory_points = {

@@ -3,12 +3,10 @@ state = {
 	name = "STATE_904"
 
 	history = {
-		owner = ARG
-		add_core_of = ARG
-		add_claim_by = FOP
-		set_demilitarized_zone = yes
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
 		victory_points = {
 			13501 3

@@ -9,11 +9,11 @@ state = {
 
 	state_category = two
 	history = {
-		owner = PHI
+		owner = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
-		add_core_of = PHI
+		add_core_of = NEU
 	}
 	provinces = {
 		1224 1311 1340 4269 4373

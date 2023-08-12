@@ -6,21 +6,14 @@ state = {
 	state_category = four
 
 	history = {
-		owner = CAF
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 2
-			dockyard = 1
-			arms_factory = 1
-			12304 = {
-				naval_base = 1
-			}
+
 		}
 		victory_points = {
 			12304 8
 		}
-		add_core_of = CAF
-		add_core_of = JAM
+		add_core_of = NEU
 	}
 
 	provinces = { 12304 12477 }

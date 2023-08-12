@@ -4,18 +4,11 @@ state = { #Central Shanxi
 	manpower = 3518000
 	state_category = four
 	history = {
-		owner = SHX
-		add_core_of = SHX
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
+			
 		buildings = {
-			infrastructure = 4
-			arms_factory = 3
-			air_base = 2
-			4174 = { bunker = 5 }
-			10838 = { bunker = 3 }
-			1962 = { bunker = 2 }
-			1115 = { bunker = 2 }
+
 		}
 		victory_points = {
 			4174 10

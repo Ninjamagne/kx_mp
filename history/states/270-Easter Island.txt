@@ -5,14 +5,11 @@ state = {
 	state_category = zero_island
 
 	history = {
-		owner = CHL
-		add_core_of = CHL
+		owner = NEU
+		add_core_of = NEU
 
 		buildings = {
-			infrastructure = 1
-			1280 = {
-				naval_base = 1
-			}
+
 		}
 	}
 	provinces = {

@@ -10,17 +10,10 @@ state = { #Qiongya
 
 	local_supplies = 1.0 
 	history = {
-		owner = LEP
-		add_claim_by = LEP
-		add_core_of = GXC
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
-			air_base = 1
-			994 = {
-				naval_base = 2
-			}
+			
 		}
 	}
 

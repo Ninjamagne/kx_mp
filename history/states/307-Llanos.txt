@@ -6,11 +6,11 @@ state = {
 	}
 
 	history = {
-		owner = VEN
+		owner = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
-		add_core_of = VEN
+		add_core_of = NEU
 		victory_points = {
 			5000 3
 		}

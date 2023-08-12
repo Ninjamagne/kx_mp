@@ -10,13 +10,10 @@ state = {
 
 	local_supplies = 4.0 
 	history = {
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = MON
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 
 		victory_points = {

@@ -5,13 +5,10 @@ state = {
 		steel = 10
 	}
 	history = {
-		owner = BRM
-		add_claim_by = SIA
-		add_core_of = BRM
-		add_core_of = SHA
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+
 		}
 		victory_points = {
 			7603 1 # Taungyi

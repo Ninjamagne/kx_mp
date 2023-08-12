@@ -8,23 +8,10 @@ state = { # Jidong
 	}
 
 	history = {
-		owner = QIE
-		add_core_of = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			6969 = {
-				bunker = 1
-			}
-			3830 = {
-				bunker = 1
-			}
-			9905 = {
-				bunker = 1
-			}
-			11886 = {
-				bunker = 1
-			}
+
 		}
 		victory_points = {
 			11886 3

@@ -7,17 +7,14 @@ state = {
 	}
 
 	history = {
-		owner = SIA
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			4433 = { # Sattahip facilities
-				naval_base = 2
-			}
+
 		}
 		victory_points = {
 			4433 1 # Sattahip - 3
 		}
-		add_core_of = SIA
+		add_core_of = NEU
 	}
 
 	provinces = {

@@ -7,21 +7,14 @@ state = {
 
 	local_supplies = 3.0 
 	history = {
-		owner = CAF
+		owner = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 1
-			4982 = {
-				naval_base = 1
-			}
-			air_base = 1
+
 		}
 		victory_points = {
 			4982 5
 		}
-		add_core_of = CAF
-		add_core_of = GYA
+		add_core_of = NEU
 	}
 
 	provinces = {

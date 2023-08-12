@@ -3,13 +3,10 @@ state = {
 	name = "STATE_612" # Chahar/Xilingol
 
 	history = {
-		owner = MON
-		add_core_of = MON
-		add_claim_by = QIE
-		add_claim_by = FNG
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
-			arms_factory = 1
+
 		}
 		victory_points = {
 			10372 5

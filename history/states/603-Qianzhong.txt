@@ -8,13 +8,10 @@ state = { #Qianzhong
 		steel = 6
 	}
 	history = {
-		owner = YUN
-		add_core_of = YUN
-		add_claim_by = QIE
-		add_claim_by = FNG
-
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 	}
 
