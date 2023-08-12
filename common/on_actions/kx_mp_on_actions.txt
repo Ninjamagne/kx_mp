@@ -1,0 +1,8 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			NEU = { add_ideas = always_closed_economy }
+			NEU = { add_ideas =  kx_mp_neutral }
+		}
+	}
+}

@@ -202,11 +202,6 @@ country_event = { #Japan has pledged support, attack now
 	title = anq.7.t
 	desc = anq.7.d
 	picture = GFX_report_event_JAP_rising_sun
-	trigger = {
-		NOT = {
-			has_country_flag = qing_supports_chen
-		}
-	}
 
 	fire_only_once = yes
 	is_triggered_only = yes
