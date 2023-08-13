@@ -1,11 +1,11 @@
 on_actions = {
 	on_startup = {
 		effect = {
-			SWE = { add_ideas = always_free_trade }
+			SWI = { add_ideas = always_free_trade }
 			TUR = { add_ideas = always_free_trade }
 			NEU = { add_ideas = always_closed_economy }
 
-			SWE = { add_ideas =  kx_mp_neutral }
+			SWI = { add_ideas =  kx_mp_neutral }
 			TUR = { add_ideas =  kx_mp_neutral }
 			NEU = { add_ideas =  kx_mp_neutral }
 		}
