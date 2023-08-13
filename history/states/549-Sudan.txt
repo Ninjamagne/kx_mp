@@ -8,11 +8,11 @@ state = {
 		oil = 12
 	}
 	history = {
-		owner = EGY
-		add_core_of = EGY
+		owner = NEU
+		add_core_of = NEU
 		add_core_of = SUD
 		buildings = {
-			infrastructure = 2
+
 		}
 	}
 

@@ -5,11 +5,10 @@ state = {
 		steel = 18
 	}
 	history = {
-		owner = ETH
-		add_core_of = ETH
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+
 		}
 	}
 

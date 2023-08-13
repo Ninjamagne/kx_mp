@@ -5,13 +5,11 @@ state = {
 
 	state_category = two
 	history = {
-		owner = SOM
-		add_core_of = SOM
-		add_claim_by = ETH
+		owner = NEU
+		add_core_of = NEU
 		victory_points = { 12812 1 } #Werder
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 2
+
 		}
 	}
 	provinces = {

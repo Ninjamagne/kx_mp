@@ -7,7 +7,6 @@ state = {
 	history = {
 		owner = AZE
 		add_core_of = AZE
-		add_claim_by = ARM
 		victory_points = {
 			6997 1
 		}
