@@ -144,4 +144,64 @@ AI_annex = {
             }
         }
     }
+
+    # ENTENTE
+
+    CAN_annex_SAF = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = CAN
+            SAF = { is_ai = yes }
+            SAF = { has_capitulated = no }
+        }
+
+        visible = {
+            country_exists = SAF
+            original_tag = CAN
+            SAF = { is_ai = yes }
+            SAF = { is_in_faction_with = CAN }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = SAF transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = SAF
+                    is_controlled_by = CAN
+                }
+                add_core_of = CAN
+            }
+        }
+    }
+
+    CAN_annex_AST = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = CAN
+            AST = { is_ai = yes }
+            AST = { has_capitulated = no }
+        }
+
+        visible = {
+            country_exists = AST
+            original_tag = CAN
+            AST = { is_ai = yes }
+            AST = { is_in_faction_with = CAN }
+            is_ai = NO
+        }
+        complete_effect = {
+            annex_country = { target = AST transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = AST
+                    is_controlled_by = CAN
+                }
+                add_core_of = CAN
+            }
+        }
+    }
 }
