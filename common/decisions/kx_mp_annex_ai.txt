@@ -15,7 +15,7 @@ AI_annex = {
             original_tag = GER
             POL = { is_ai = yes }
             POL = { is_in_faction_with = GER }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = POL transfer_troops = yes }
@@ -44,7 +44,7 @@ AI_annex = {
             original_tag = GER
             UKR = { is_ai = yes }
             UKR = { is_in_faction_with = GER }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = UKR transfer_troops = yes }
@@ -73,7 +73,7 @@ AI_annex = {
             original_tag = GER
             WHR = { is_ai = yes }
             WHR = { is_in_faction_with = GER }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = WHR transfer_troops = yes }
@@ -102,7 +102,7 @@ AI_annex = {
             original_tag = GER
             LIT = { is_ai = yes }
             LIT = { is_in_faction_with = GER }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = LIT transfer_troops = yes }
@@ -131,7 +131,7 @@ AI_annex = {
             original_tag = GER
             BAT = { is_ai = yes }
             BAT = { is_in_faction_with = GER }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = BAT transfer_troops = yes }
@@ -162,7 +162,7 @@ AI_annex = {
             original_tag = CAN
             SAF = { is_ai = yes }
             SAF = { is_in_faction_with = CAN }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = SAF transfer_troops = yes }
@@ -191,7 +191,7 @@ AI_annex = {
             original_tag = CAN
             AST = { is_ai = yes }
             AST = { is_in_faction_with = CAN }
-            is_ai = NO
+            is_ai = no
         }
         complete_effect = {
             annex_country = { target = AST transfer_troops = yes }
