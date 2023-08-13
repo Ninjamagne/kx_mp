@@ -5,7 +5,7 @@ state = {
 	state_category = zero
 
 	history = {
-		owner = ENU
+		owner = NEU
 		add_core_of = NEU
 		buildings = {
 

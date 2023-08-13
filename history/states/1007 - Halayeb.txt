@@ -5,16 +5,10 @@ state = {
 		chromium = 25
 	}
 	history = {
-		owner = EGY
-		add_core_of = EGY
-		add_core_of = SUD
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			air_base = 1
-			12725 = {
-				naval_base = 1
-			}
+
 		}
 		victory_points = {
 			12725 1

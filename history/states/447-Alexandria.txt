@@ -7,20 +7,13 @@ state = {
 	}
 
 	history = {
-		owner = EGY
-		add_core_of = EGY
+		owner = NEU
+		add_core_of = NEU
 		victory_points = {
 			4076 20
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 2
-			dockyard = 1
-			arms_factory = 2
-			air_base = 2
-			4076 = {
-				naval_base = 5
-			}
+
 		}
 	}
 

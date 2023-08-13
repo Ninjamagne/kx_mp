@@ -1,0 +1,98 @@
+ignore_player_fronts_GER = {
+	allowed = {}
+	enable = { 
+		GER = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = GER
+		value = 5000
+	}
+}
+ignore_player_fronts_FRA = {
+	allowed = {}
+	enable = { 
+		FRA = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = FRA
+		value = 5000
+	}
+}
+ignore_player_fronts_ENG = {
+	allowed = {}
+	enable = { 
+		ENG = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = ENG
+		value = 5000
+	}
+}
+ignore_player_fronts_AUS = {
+	allowed = {}
+	enable = { 
+		AUS = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = AUS
+		value = 5000
+	}
+}
+ignore_player_fronts_CAN = {
+	allowed = {}
+	enable = { 
+		CAN = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = CAN
+		value = 5000
+	}
+}
+ignore_player_fronts_NFA = {
+	allowed = {}
+	enable = { 
+		NFA = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = NFA
+		value = 5000
+	}
+}
+ignore_player_fronts_RUS = {
+	allowed = {}
+	enable = { 
+		RUS = {
+			is_ai = no
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = RUS
+		value = 5000
+	}
+}

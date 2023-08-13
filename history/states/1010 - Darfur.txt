@@ -9,11 +9,10 @@ state = {
 		chromium = 8
 	}
 	history = {
-		owner = EGY
-		add_core_of = EGY
-		add_core_of = SUD
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 1
+
 		}
 	}
 
