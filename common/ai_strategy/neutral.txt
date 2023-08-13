@@ -3,7 +3,7 @@ ignore_neutral = {
     enable = {
         always = yes
     }
-
+    # NEU
     ai_strategy = {
         type = dont_defend_ally_borders
         id = NEU
@@ -22,6 +22,48 @@ ignore_neutral = {
     ai_strategy = {
         type = prepare_for_war
         id = NEU
+        value = -1000
+    }
+    # SWI
+    ai_strategy = {
+        type = dont_defend_ally_borders
+        id = SWI
+        value = 1000
+    }
+    ai_strategy = {
+        type = front_unit_request
+        tag = SWI
+        value = -1000
+    }
+    ai_strategy = {
+        type = ignore
+        id = SWI
+        value = 1000
+    }
+    ai_strategy = {
+        type = prepare_for_war
+        id = SWI
+        value = -1000
+    }
+    # TUR
+    ai_strategy = {
+        type = dont_defend_ally_borders
+        id = TUR
+        value = 1000
+    }
+    ai_strategy = {
+        type = front_unit_request
+        tag = TUR
+        value = -1000
+    }
+    ai_strategy = {
+        type = ignore
+        id = TUR
+        value = 1000
+    }
+    ai_strategy = {
+        type = prepare_for_war
+        id = TUR
         value = -1000
     }
 }

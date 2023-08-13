@@ -8,6 +8,14 @@ focus_tree = {
 			add = 100
 			tag = NEU
         }
+		modifier = {
+			add = 100
+			tag = SWI
+        }
+		modifier = {
+			add = 100
+			tag = TUR
+        }
 	}
  
 	default = no
