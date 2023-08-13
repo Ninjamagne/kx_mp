@@ -3,11 +3,10 @@ state = {
 	name = "STATE_944"
 
 	history = {
-		owner = ETH
-		add_core_of = ETH
-		add_claim_by = SOM
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
 	}
 

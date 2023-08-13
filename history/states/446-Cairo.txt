@@ -3,13 +3,10 @@ state = {
 	name = "STATE_446"
 
 	history = {
-		owner = EGY
-		add_core_of = EGY
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 3
-			arms_factory = 1
-			air_base = 2
+
 		}
 		victory_points = {
 			7011 30 #Cairo

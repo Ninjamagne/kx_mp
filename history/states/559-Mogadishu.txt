@@ -6,21 +6,12 @@ state = {
 	state_category = four
 
 	history = {
-		owner = SOM
-		add_core_of = SOM
+		owner = NEU
+		add_core_of = NEU
 		victory_points = { 10921 1 } #Warsangali
 		victory_points = { 10928 5 } #Mogadishu
 		buildings = {
-			infrastructure = 2
-			air_base = 1
-			industrial_complex = 2
-			arms_factory = 1
-			10921 = {
-				naval_base = 1
-			}
-			12991 = {
-				naval_base = 2
-			}
+
 		}
 	}
 	provinces = {

@@ -4,26 +4,16 @@ state={
 	name="STATE_454"
 
 	history={
-		owner = PAL
-		add_core_of = PAL
-		add_core_of = TUR
-		add_core_of = SYR
-		set_demilitarized_zone = yes
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
-			air_base = 1
-			4206 = {
-				naval_base = 1
-
-			}
-
+			
 		}
 		victory_points = {
 			1086 5
 		}
 
 	}
-
 	provinces={
 		1015 1086 1201 4088 4206 7176 11970
 	}
