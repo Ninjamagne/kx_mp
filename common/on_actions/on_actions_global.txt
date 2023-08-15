@@ -240,36 +240,6 @@ on_actions = {
 		}
 	}
 
-	on_weekly = {
-		effect = {
-			# unit limit calculations
-			if = {
-				limit = {
-					NOT = { has_global_flag = KR_no_unit_limits }
-				}
-				calculate_maximum_divisions = yes
-			}
-			if = {
-				limit = {
-					NOT = {
-						has_global_flag = KR_no_unit_limits
-						has_global_flag = KR_unit_limits_ai_only
-					}
-				}
-				country_event = kr.political.122
-			}
-			
-			# update intelligence agency AI
-			if = {
-				limit = {
-					has_intelligence_agency = yes
-					is_ai = yes
-				}
-				update_operation_ai = yes
-			}
-		}
-	}
-
 	on_monthly = {
 		effect = {
 			#Faction Opinion Modifiers

@@ -1,5 +1,16 @@
 on_actions = {
-	on_daily = {
+	on_daily_RUS = {
+		effect = {
+			if = {
+				limit = {
+					has_country_flag = SOV_proletkult_ongoing
+				}
+				recalculate_proletkult_revolution_effects = yes
+				recalculate_proletkult_revolution_effects_daily = yes
+			}
+		}
+	}
+	on_daily_SOV = {
 		effect = {
 			if = {
 				limit = {
