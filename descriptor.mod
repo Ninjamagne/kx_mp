@@ -1,4 +1,4 @@
-name="Kaiserredux"
+name="Kaiserredux Multiplayer"
 replace_path="common/abilities"
 replace_path="common/ai_areas"
 replace_path="common/ai_equipment"
@@ -68,8 +68,7 @@ replace_path="history/general"
 replace_path="map/strategicregions"
 replace_path="portraits"
 replace_path="tests"
-
-version="0.01"
+version="0.0.1"
 tags={
 	"Alternative History"
 	"Events"
@@ -77,4 +76,4 @@ tags={
 	"National Focuses"
 }
 supported_version="1.12.*"
-path="C:/Users/User/Desktop/Documents/Paradox Interactive/Hearts of Iron IV/mod/kx"
+remote_file_id="2206134307"
