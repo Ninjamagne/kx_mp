@@ -9,6 +9,7 @@ state = {
 		owner = NEU
 		add_core_of = NEU
 		buildings = {
+		}
 
 	}
 
