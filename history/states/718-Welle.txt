@@ -10,8 +10,8 @@ state={
 
 	local_supplies = 1.0 
 	history={
-		owner = COG
-		add_core_of = COG
+		owner = MAF
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 1
 

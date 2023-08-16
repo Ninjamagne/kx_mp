@@ -9,8 +9,8 @@ state={
 		tungsten = 15
 	}
 	history={
-		owner = COG
-		add_core_of = COG
+		owner = MAF
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 2
 

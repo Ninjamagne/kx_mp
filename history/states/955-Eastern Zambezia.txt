@@ -6,10 +6,10 @@ state = {
 		chromium = 12
 	}
 	history = {
-		owner = ZAM
-		add_claim_by = ZAM
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
 	}
 

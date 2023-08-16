@@ -11,10 +11,10 @@ state = {
 	}
 
 	history = {
-		owner = ZIM
-		add_claim_by = ZAM
+		owner = NEU
+		add_core_of = NEU
 		buildings = {
-			infrastructure = 2
+
 		}
 		victory_points = {
 			10929 1
