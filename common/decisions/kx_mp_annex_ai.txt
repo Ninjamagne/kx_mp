@@ -25,6 +25,7 @@ AI_annex = {
                     is_controlled_by = GER
                 }
                 set_compliance = 100
+                add_claim_by = root
             }
         }
     }
@@ -54,6 +55,7 @@ AI_annex = {
                     is_controlled_by = GER
                 }
                 set_compliance = 100
+                add_claim_by = root
             }
         }
     }
@@ -83,6 +85,7 @@ AI_annex = {
                     is_controlled_by = GER
                 }
                 set_compliance = 100
+                add_claim_by = root
             }
         }
     }
@@ -112,6 +115,7 @@ AI_annex = {
                     is_controlled_by = GER
                 }
                 set_compliance = 100
+                add_claim_by = root
             }
         }
     }
@@ -141,6 +145,7 @@ AI_annex = {
                     is_controlled_by = GER
                 }
                 set_compliance = 100
+                add_claim_by = root
             }
         }
     }
@@ -204,4 +209,38 @@ AI_annex = {
             }
         }
     }
+
+    # Internationale
+
+    FRA_annex_SRI = {
+        icon = GFX_decision_eng_trade_unions_support
+        fire_only_once = yes
+
+        available = {
+            original_tag = FRA
+            SRI = { is_ai = yes }
+            SRI = { has_capitulated = no }
+            date > 1939.01.01
+        }
+
+        visible = {
+            country_exists = SRI
+            original_tag = FRA
+            SRI = { is_ai = yes }
+            SRI = { is_in_faction_with = FRA }
+            is_ai = no
+        }
+        complete_effect = {
+            annex_country = { target = SRI transfer_troops = yes }
+            every_state = {
+                limit = {
+                    is_core_of = SRI
+                    is_controlled_by = root
+                }
+                set_compliance = 100
+                add_claim_by = root
+            }
+        }
+    }
+    
 }
